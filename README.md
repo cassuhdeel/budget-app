@@ -15,6 +15,7 @@ This application will run on http://localhost:3000/
 
 Start the server
 
+  'npm run build'
   'npm run start'
 
 
