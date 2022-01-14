@@ -1,18 +1,27 @@
 
-## `npm start`
+# Budget Application
 
-Runs the app in the development mode.
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This application was designed as an easy to manage money tracking
+application. The traditional spreadsheet was used as an inspiration
+for this project. This is best used for those who are looking
+to keep track of their spending and see if it is within their 
+budget.
 
 
-## `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Run Locally
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This application will run on http://localhost:3000/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start the server
+
+  'npm run start'
+
+
+
+## Tech Stack
+
+This application was developed usinf React, JavaScript, and Bootstrap
+
 
 
