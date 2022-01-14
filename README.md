@@ -11,7 +11,7 @@ budget.
 
 ## Run Locally
 
-This application will run on http://localhost:3000/
+This application will run at http://localhost:3000/
 
 Start the server
 
